@@ -1,7 +1,7 @@
 {
   "name": "Pastel da Camila • Sistema Operacional",
   "short_name": "Pastel Camila",
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#fefaf3",
   "theme_color": "#c8181e",
